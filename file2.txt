@@ -7,3 +7,4 @@ item	price
 bell	2$
 glass	4$
 wistle	6$
+fork	5$

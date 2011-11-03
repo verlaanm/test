@@ -1,2 +1,8 @@
-more information in this second file
-add a line
+more information in this second file.
+
+Table for costs:
+---------------
+item	price
+---------------
+bell	2$
+glass	4$

@@ -8,3 +8,4 @@ bell	2$
 glass	4$
 wistle	6$
 light	1$
+fork	5$
